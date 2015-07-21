@@ -9,7 +9,7 @@ It is compatible with android 2.3-4.4.
 
 The art mode support will come soon!
 
-
+hehe
 API:
 
 `com.morgoo.hook.zhook.ZHook` class:
